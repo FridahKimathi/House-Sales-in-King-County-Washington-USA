@@ -23,7 +23,7 @@ After exploring, splitting and preprocessing the data, multiple linear regressio
 ## Results
 
 The price of the house is relatively highly correlated to two columns, that is footage of the home(sqft_living) and grade
-<img src="images\heatmap.png"> 
+<img src="images\heatmap_corr.jpg"> 
 
 Features such as number of bedrooms and bathrooms, size of living space and property, number of floors the house has, whether the house has a waterfall or not and the grade of the house  were included in the final multiple linear regression model. 
 <img src="images\scatterplot.png"> 
