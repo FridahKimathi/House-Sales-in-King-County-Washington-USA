@@ -1,5 +1,5 @@
 
-<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County, USA" width="600" height="400">
+<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County, USA" width="400" height="250">
 
 # House Sales in King County, USA
 
@@ -23,11 +23,10 @@ After exploring, splitting and preprocessing the data, multiple linear regressio
 ## Results
 
 The price of the house is relatively highly correlated to two columns, that is footage of the home(sqft_living) and grade
-
-![Heat_map_image](images\Heatmap_corr.png)
+<img src="images\heatmap.png"> 
 
 Features such as number of bedrooms and bathrooms, size of living space and property, number of floors the house has, whether the house has a waterfall or not and the grade of the house  were included in the final multiple linear regression model. 
-![scatter_plot_image](images\scatterplot.png)
+<img src="images\scatterplot.png"> 
 
 The model satisfied all linear regression assumptions that is linearity, normality, multicollinearity and homoscedasticity.
            Linearity Assumption
@@ -35,7 +34,7 @@ The model satisfied all linear regression assumptions that is linearity, normali
            Normality Assumption
 <img src="images\Normality.png">
            Homoscedasticity Assumption
-<img src="images\scatterplot.png">
+<img src="images\Homoscedasticity.png">
 
  The p-values for each predictor variable were below 0.05 and therefore the null hypothesis that states that there is no relationship between the chosen explanatory variables and the response variable can be rejected. The r-squared value of the model was 0.63.
 
