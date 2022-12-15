@@ -1,6 +1,6 @@
 # House Sales in King County, USA
 
-<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County width="650" height="400">
+<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County" width="650" height="400">
 
 ##### **Author**: [Fridah Kimathi](mailto:fridahnkirotekimathi@gmail.com)
 
