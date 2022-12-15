@@ -1,6 +1,6 @@
 # House Sales in King County, USA
 
-<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County width="650" height="400">
+<img src="images\King_county_houses.jpeg" alt="A picture of houses in King County" width="650" height="400">
 
 ##### **Author**: [Fridah Kimathi](mailto:fridahnkirotekimathi@gmail.com)
 
@@ -67,7 +67,7 @@ Further analyses could yield additional insights to further improve operations a
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/FridahKimathi/House-Sales-in-King-County-Washington-USA/blob/main/index.ipynb) or review this [presentation](https://github.com/FridahKimathi/House-Sales-in-King-County-Washington-USA/blob/main/House%20Sale%20King%20County%2CUSA%20Presentation.pdf).
 
 For additional info, contact Fridah Kimathi at [fridahnkirotekimathi@gmail.com](mailto:fridahnkirotekimathi@gmail.com) or via my [LinkedIn profile](https://www.linkedin.com/in/fridah-kimathi-91608418b/).
 
