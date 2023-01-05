@@ -57,7 +57,7 @@ The model does have some limitations such as; some of the variables needed to be
 
 ### Next Steps
 ***
-Further analyses could yield additional insights to further improve operations at Real Estate Agency:
+Further analyses could yield additional insights to further improve operations at the Real Estate Agency:
 
 - **Prediction of house price based on the crime rate of the neighborhood where the house is located**This model could use already available data, such as latitude and longitude coordinates, and police records.
 
