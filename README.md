@@ -45,7 +45,7 @@ The model satisfied all linear regression assumptions that is linearity, normali
 
 ## Conclusions
 ***
-This analysis leads to three recommendations for improving operations of the Austin Animal Center:
+This analysis leads to three recommendations for improving operations of the Real Estate Agency:
 
 - **Homeowners interested in selling their homes should focus on improving the design and quality of construction of their homes** This may in turn improve the grade of the home.
 - **Home buyers looking to buy a house should consider older homes with a high grade** Older home tend to be slightly cheaper. If a home is old and has a high grade, this might be one of the cheapest yet good quality homes the buyer will find. Home with a low number of bathrooms tend to be cheaper too.
@@ -57,7 +57,7 @@ The model does have some limitations such as; some of the variables needed to be
 
 ### Next Steps
 ***
-Further analyses could yield additional insights to further improve operations at AAC:
+Further analyses could yield additional insights to further improve operations at Real Estate Agency:
 
 - **Prediction of house price based on the crime rate of the neighborhood where the house is located**This model could use already available data, such as latitude and longitude coordinates, and police records.
 
